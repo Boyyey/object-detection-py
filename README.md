@@ -35,7 +35,7 @@ Install dependencies:
 
 ```bash
 pip install torch torchvision opencv-python pyyaml
-
+```
 ---
 
 ## 📜 How It Works
