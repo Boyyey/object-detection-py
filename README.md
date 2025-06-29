@@ -17,14 +17,7 @@ A complete pipeline for training a **custom YOLOv5 model** 🏋️‍♂️, par
 
 ## 📂 Directory Structure
 
-custom_dataset/
-├── images/ # Your dataset images
-├── labels/ # YOLOv5 formatted label files
-├── data.yaml # Auto-generated training configuration
-models/
-└── custom_yolov5.pt # Trained model saved here
-O.D.F # List of image filenames to include in the dataset
-
+<pre> ```bash custom_dataset/ ├── images/ # Your dataset images ├── labels/ # YOLOv5 formatted label files ├── data.yaml # Auto-generated training configuration models/ └── custom_yolov5.pt # Trained model saved here O.D.F # List of image filenames to include in the dataset ``` </pre>
 
 ---
 
